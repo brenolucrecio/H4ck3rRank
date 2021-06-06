@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Main\\Main.csproj": {}
+    "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Solution\\Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Main\\Main.csproj": {
+    "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Solution\\Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Main\\Main.csproj",
-        "projectName": "Main",
-        "projectPath": "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Solution\\Solution.csproj",
+        "projectName": "Solution",
+        "projectPath": "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Solution\\Solution.csproj",
         "packagesPath": "C:\\Users\\Breno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Main\\obj\\",
+        "outputPath": "C:\\Users\\Breno\\Documents\\Visual Studio 2019\\Projects\\H4ck3rRank\\H4ck3rRank\\H4ck3rRank\\1 - Compare the Triples\\Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Breno\\AppData\\Roaming\\NuGet\\NuGet.Config",
